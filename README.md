@@ -204,7 +204,7 @@ the function returns.
 
 ### `createTimeInEvent`
 
- * **Argument(s)**
+ * **Argument(s)**  
   * An employee record `Object`
   * A date stamp (`"YYYY-MM-DD HHMM"`)
 * **Returns**
